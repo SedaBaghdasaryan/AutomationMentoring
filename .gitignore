@@ -4,3 +4,4 @@
 target/*
 */bin/*
 bin/*
+.nyc_output
